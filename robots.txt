@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /private/
+Sitemap: https://dewa-laut.github.io/Posaidon-News/sitemap.xml
